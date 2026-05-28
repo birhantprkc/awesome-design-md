@@ -1,6 +1,6 @@
 
 <a href="https://github.com/VoltAgent/voltagent">
-     <img width="1500"  alt="claude-skills" src="https://github.com/user-attachments/assets/d012a0d2-cec3-4630-ba5e-acc339dbe6cf" />
+     <img width="1500"  alt="claude-skills" src="https://cdn.voltagent.dev/awesome-repo/logo.json.svg" />
 </a>
 
 
@@ -8,7 +8,7 @@
 <br/>
 
 <div align="center">
-    <strong>Curated collection of DESIGN.md files inspired by developer focused websites.</strong>
+    <strong>Curated collection of DESIGN.md analysis by developer focused websites.</strong>
     <br />
     <br />
 
@@ -26,7 +26,9 @@
 
 # Awesome DESIGN.md
 
-Copy a DESIGN.md into your project, tell your AI agent "build me a page that looks like this" and get pixel-perfect UI that actually matches.
+Copy a DESIGN.md into your project, tell your AI agent “build me a page that looks like this,” and generate high-quality UI that stays visually consistent with the design language.
+
+Built with real design depth — including analyzed patterns, tokens, and rules — for high-quality UI generation, not surface-level outputs.
 
 
 ## What is DESIGN.md?
@@ -50,14 +52,13 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 
 Tools, platforms, and services for designing and shipping web apps with AI.
 
-<a href="https://github.com/VoltAgent/voltagent">
-<img height="80" alt="voltagent-banner" src="https://github.com/user-attachments/assets/7196f50b-ca98-494c-8aa0-11e111c49f96" />
+ - If you're building AI agents in TypeScript, VoltAgent gives you tool use, memory, and multi-agent coordination out of the box.
 
-You can use VoltAgent to build and run AI agents in TypeScript. It handles tool use, memory, and multi-agent coordination.
+    <a href="https://github.com/VoltAgent/voltagent">
+    <img height="80" alt="voltagent-banner" src="https://github.com/user-attachments/assets/7196f50b-ca98-494c-8aa0-11e111c49f96" />
+    </a>
 
-</a>
-
-
+ 
 <br/>
 
 <div align="center">
@@ -68,15 +69,19 @@ You can use VoltAgent to build and run AI agents in TypeScript. It handles tool 
 
 <h4>👉 Feature your product alongside the developers, designers, and vibecoders shipping UI with AI coding agents and web builders.</h4>
 
-[**Get featured here →**](https://sponsors.voltagent.dev/#awesome-design-md)
+<sub>Ranked #150 globally on GitHub. A community resource used by developers, designers, and vibecoders.</sub>
 
-<br/>
+<a href="https://sponsors.voltagent.dev/#awesome-design-md"><img src="https://img.shields.io/badge/📩_Become_a_Sponsor-Contact_Us-blue?style=for-the-badge&logoColor=white" alt="Become a Sponsor" /></a>
+
 
 </td>
 </tr>
 </table>
 
 </div>
+
+
+
 
 
 
